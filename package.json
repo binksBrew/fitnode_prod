@@ -2,6 +2,8 @@
   "name": "fitnode",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/binksBrew/fitnode_prod"
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
